@@ -1,27 +1,30 @@
-"repo_name": "MTG-Custom",
-	"data": 
-	[
-		{
-			"name": "Ho'olheyak, Winds of Time",
-			"type": "custom",
-			"id": "1",
-			"image_uris": {
-				"large": "https://github.com/Draigenaid/MTG-Custom/blob/main/Ho%E2%80%99olheyak%2C%20Winds%20of%20Time.png"
-			},
-			"mana_cost": "{b}{g}{u}",
-			"cmc": 3,
-			"type_line": "Legendary Creature — Snake Bird Wizard",
-			"oracle_text": "At the beginning of your endstep, you may exile target card in your graveyard with a plume counter on it. \nIf a nontoken creature would enter under your control, and you control no creatures with vanishing, you may have it enter with vanishing 2. If you do, it gains all activated, triggerd, and keyword abilities among cards exiled with a plume counter.",
-			"power": "2",
-			"toughness": "4",
-			"colors": [
-				"B",
-				"G",
+{
+  "repo_name": "MTG-Custom",
+  "data": [
+    {
+      "name": "Ho'olheyak, Winds of Time",
+      "type": "custom",
+      "id": "1",
+      "image_uris": {
+        "large": "https://github.com/Draigenaid/MTG-Custom/blob/main/Ho%E2%80%99olheyak%2C%20Winds%20of%20Time.png"
+      },
+      "mana_cost": "{B}{G}{U}",
+      "cmc": 3,
+      "type_line": "Legendary Creature — Snake Bird Wizard",
+      "oracle_text": "At the beginning of your endstep, you may exile target card in your graveyard with a plume counter on it. \nIf a nontoken creature would enter under your control, and you control no creatures with vanishing, you may have it enter with vanishing 2. If you do, it gains all activated, triggerd, and keyword abilities among cards exiled with a plume counter.",
+      "power": "2",
+      "toughness": "4",
+      "colors": [
+        "B",
+        "G",
         "U"
-			],
-			"color_identity": [
-				"B",
-				"G",
+      ],
+      "color_identity": [
+        "B",
+        "G",
         "U"
-			]
-		},
+      ]
+    }
+  ]
+}
+ 
